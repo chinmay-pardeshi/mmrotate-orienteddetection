@@ -36,14 +36,14 @@ You can train on public datasets like:
 
 You must place the dataset in the structure MMRotate expects:
 
+```
 mmrotate/
 ├── data/
 │ └── dota/
 │ ├── train/
 │ ├── val/
 │ └── test/
-
-
+```
 
 ## ⚙️ Setup Instructions
 
