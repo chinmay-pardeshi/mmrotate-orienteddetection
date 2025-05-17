@@ -95,6 +95,7 @@ pip install -v -e .
 
 ### 📁 Folder Structure
 
+```
 mmrotate/
 ├── configs/
 │   └── redet/
@@ -103,4 +104,4 @@ mmrotate/
 ├── work_dirs/
 ├── data/
 │   └── dota/
-
+```
